@@ -1,0 +1,40 @@
+body {
+  background-image: url("https://sp.yimg.com/xj/th?id=OIP.M8f816b4214f5f845c36759247c9e59ddo0&pid=15.1&P=0&w=300&h=300");
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.backing {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.backing2 {
+  background-image: url("http://www.themesltd.com/headers2/laser_nebula_cat.png");
+  background-position: center;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.videobacking{
+background-image: url("http://i.imgur.com/ovuSLuF.jpg");
+  background-position: center;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+}
+.border{
+  border:5px solid #021a40;
+}
+h1 {
+  color: white;
+}
